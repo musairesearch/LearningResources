@@ -28,7 +28,9 @@ book:
         - sessions/models.qmd
         - sessions/others.qmd
         - sessions/personalisation.qmd
-        - sessions/politicaleconomy.qmd
+        - sessions/politicaleconomy-eric.qmd
+        - sessions/politicaleconomy-ollie.qmd
+
 
 
 # this would be a global bib, but I think we can have them per-page too
