@@ -6,26 +6,25 @@ order: 3
 
 # Abstract
 
-How do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.
+How do we think the forms of value that ML might produce, and the costs that it entails? What are the economic conditions that have enabled the recent profusion of AI music companies, and that have shaped the products and services they have developed? How does commercial music AI relate to the broader music ecosystem, and what might be the longer-term impact of their entanglement? Introduction to the political economy of AI music, and the implications it may have for the future of music cultures and music as a common resource.
 
 # Videos 
 
 # Core Readings
 
-Drott, Eric. 'Four Conditions (and a Contradiction) in the Political Economy of Commercial Music AI.' Forthcoming.
+Drott, Eric. ‘Commons Capital, Commons Collapse, and the Political Economy of Commercial Music AI.’ Forthcoming.
 
 # Further Readings
 
-Cellard, L., Parker, C., & Haines, F. (2025). Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning’s carbon footprint. Environment and Planning E, 25148486251332087. https://doi.org/10.1177/25148486251332087
+Crawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale. Esp. chapter 1, ‘Earth’.
 
-Hesmondhalgh, D. (2012). ‘Towards a Political Aesthetics of Music’, in The Cultural Study of Music: A Critical Introduction, 364–374.
+Drott, E. (2021). Copyright, Compensation, and Commons in the Music AI Industry. Creative Industries Journal, 14(2), 190-207.
 
-Bown, O. (2025 - in review). ‘The Song Remains the Same and the Beat Goes On: Prospecting the Rise of DATaPoP (Deciding Artistic Things at Point of Playback)’. Forthcoming.
+Leyshon, A., and Watson, A. (2025) The Rise of the Platform Music Industries. Agenda. Esp. ch. 3.
 
-Sag, M., & Yu, P. K. (2025). ‘The Globalization of Copyright Exceptions for AI Training. Emory Law Journal, 74.
+Morreale, F., Martinez-Ramirez, M. A., Masu, R., Liao, W., & Mitsufuji, Y. (2025). Reductive, exclusionary, normalising: the limits of generative AI music. Transactions of the International Society for Music Information Retrieval, 8(1), 300-312. 
 
-Law, H. (2025). ‘The Slop Must Flow: AI and the Case for Creative Abundance’. https://www.learningfromexamples.com/p/the-slop-must-flow
+Rikap, C. (2026) The Rulers: Corporate Power in the Age of AI and the Cloud. Verso
 
-Crawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (Yale, 2021), esp. chapter 1, ‘Earth’.
+Srnicek, N. (2026). Silicon Empires: The Fight for the Future of AI. Polity.
 
-Crawford, K. and Joler, V., “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (2018) https://anatomyof.ai
