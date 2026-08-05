@@ -1,5 +1,7 @@
 _book/*
-.quarto/
+.quarto/*
+build/*
+journal_files/*
 
 
 **/*.quarto_ipynb

@@ -1,10 +1,14 @@
 ---
 title: "The Political-Economy of AI, Economic Value, and Beyond II"
+author: "Oliver Bown (University of New South Wales, Sydney)"
+order: 4
 ---
 
 # Abstract
 
 How do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.
+
+# Videos 
 
 # Core Readings
 

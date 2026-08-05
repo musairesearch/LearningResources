@@ -1,0 +1,23 @@
+---
+title: "AI, Music and Copyright"
+author: ["Georgina Born (University College London)", "Eric Drott (University of Texas, Austin)", "Oliver Bown (University of New South Wales, Sydney)", "Owen Green (University College London)"]
+order: 6
+---
+# Abstract
+Criticism of generative AI for music is often framed in terms of copyright and the expropriation of creative labour. However, is this the productive critical perspective? (Musical) copyright, whilst heterogeneous and highly complex, tends to account for a narrow selection of musical qualities and critique on the basis of straightforward plagiarism oversimplifies the processes at work in generative systems. 
+ 
+# Videos
+
+# Core Reading
+Born, G., Bown, O., Drott, E., & Green, O. (Forthcoming 2026). From Copyright to Commons: Generative AI in Music, Copyright’s Informational Remainder, and Aggregate. Cambridge Forum on AI: Culture and Society.
+
+# Further Reading
+Craig, C. (2025). The AI-Copyright Trap. Chicago-Kent Law Review, 100(1), 107.
+
+Drott, E. (2021). Copyright, compensation, and commons in the music AI industry. Creative Industries Journal, 14(2), 190–207. https://doi.org/10.1080/17510694.2020.1839702
+
+McKelvey, F., Simon, B., & Frizzera, L. (2026). Generative AI and the information commons: Controversy, copyright, and closure. Information, Communication & Society, 29(6), 1890–1911. https://doi.org/10.1080/1369118X.2025.2565328
+
+Parker, J., & Goldstein, J. (2025). Labor not property: Why artists are fighting the wrong battle on gener. Verso Blog. https://www.versobooks.com/en-gb/blogs/news/labor-not-property-why-artists-are-fighting-the-wrong-battle-on-generative-ai
+
+Sag, M., & Yu, P. K. (2024). The Globalization of Copyright Exceptions for AI Training (SSRN Scholarly Paper No. 4976393). Social Science Research Network. https://doi.org/10.2139/ssrn.4976393

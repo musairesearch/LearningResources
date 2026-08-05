@@ -1,35 +1,37 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: build
 
 book:
   title: "MusAI Learning Resources"
   subtitle: "Building Critical Interdisciplinary Studies"
   navbar:
     background: "white"
-    foreground: " #dd5c00" 
+    foreground: "#dd5c00" 
     search: true
     title: "MusAI Learning Resources"
     pinned: true
   chapters:
     - index.qmd 
-    - part: research.qmd
-      chapters:       
-      - research/survey.qmd
-    - part: playground.qmd
-      chapters:
-      - playground/notebook.qmd
-      - playground/references.qmd
+    # - part: research.qmd
+    #   chapters:       
+    #   - research/survey.qmd
+    # - part: playground.qmd
+    #   chapters:
+    #   - playground/notebook.qmd
+    #   - playground/references.qmd
     - part: sessions.qmd
       chapters:
-        - sessions/artcritique.qmd
-        - sessions/creaticepractice.qmd
-        - sessions/culture.qmd
-        - sessions/models.qmd
-        - sessions/others.qmd
-        - sessions/personalisation.qmd
-        - sessions/politicaleconomy1.qmd
-        - sessions/politicaleconomy2.qmd
+        - sessions/1_culture.qmd
+        - sessions/2_models.qmd
+        - sessions/3_politicaleconomy1.qmd
+        - sessions/4_politicaleconomy2.qmd
+        - sessions/5_personalisation.qmd
+        - sessions/6_copyright.qmd
+        - sessions/7_others.qmd
+        - sessions/8_creativepractice.qmd
+        - sessions/9_artcritique.qmd
+    - references.qmd
 
 
 

@@ -1,11 +1,14 @@
 ---
 title: "ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems" 
+author: ["Georgina Born (University College London)", "Fernando Diaz (Carnegie Mellon University, Google)"]
+order: 5
 ---
 
 # Abstract
 
 With ideas around political economy, value and the user in hand, we venture beyond this to consider the limits of personalization as a paradigm, and introduce ideas of public value. Focus on a case study of a combined conceptual-and-technical intervention: a new metric for recommender systems conceived around notions of public value. 
 
+# Videos 
 
 # Core Readings
 

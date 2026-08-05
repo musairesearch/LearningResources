@@ -1,9 +1,13 @@
 ---
 title: "Culture, Interdisciplinarity, and ML"
+author: "Georgina Born (University College London)"
+order: 1
 ---
 
 # Abstract
 Introductory overview: setting the agenda regarding getting ‘beyond ethics’ in critical thinking about ML, in favour of the necessity of developing wider interdisciplinary and structural understandings of AI/ML. Establishing music as an exemplary domain for thinking through these issues, and introducing the MusAI research program’s attempts to develop critical accounts of AI and music, and this course as a key experimental step in our work. A first lens on these issues is through recent debates on ‘AI and culture’, drawing out, via a focus on recommender systems, how culture gets into ML in several distinct ways. From this to the question of how ML applications configure human users, employing ideas from Science and Technology Studies (STS) – and asking: could it be otherwise?
+
+# Videos
 
 # Core Readings
 

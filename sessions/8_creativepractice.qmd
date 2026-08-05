@@ -1,10 +1,14 @@
 ---
-title: "ML and Creative Practice"
+title: "Machine Learning and Creative Practice"
+author: ["Aaron Einbond (City University, London)", "Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)"]
+order: 8
 ---
 
 # Abstract 
 
 What kinds of technical and artistic innovation does ML enable? What is the relationship between them and how are they shaped by aesthetic concerns? Can artistic work with ML serve as a source of critique, informed by humanities scholarship? We examine contemporary and critical practice in musical composition with ML. 
+
+# Videos
 
 
 # Core Readings 
