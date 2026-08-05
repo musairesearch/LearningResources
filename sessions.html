@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The sessions – MusAI Learning Resources</title>
+<title>Sessions – MusAI Learning Resources</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -86,9 +86,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-order','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -225,7 +225,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./sessions.html">The sessions</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./sessions.html">Sessions</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -236,7 +236,7 @@ window.Quarto = {
     <div class="quarto-title-banner duotone page-columns page-full">
       <div class="overlay page-columns page-full">
         <div class="quarto-title column-body">
-        <h1 class="title">The sessions</h1>
+        <h1 class="title">Sessions</h1>
                                 </div>
       </div>
     </div>
@@ -264,7 +264,7 @@ window.Quarto = {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="./sessions.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">The sessions</span></a>
+ <span class="menu-text">Sessions</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -272,47 +272,56 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/1_culture.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Culture, Interdisciplinarity, and ML</span></a>
+  <a href="./sessions/1_culture.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Culture, Interdisciplinarity, and ML</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/2_models.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Objects of ML</span></a>
+  <a href="./sessions/2_models.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The Objects of ML</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/3_politicaleconomy1.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Political-Economy of AI, Economic Value, and Beyond I</span></a>
+  <a href="./sessions/3_politicaleconomy1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">The Political-Economy of AI, Economic Value, and Beyond I</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/4_politicaleconomy2.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Political-Economy of AI, Economic Value, and Beyond II</span></a>
+  <a href="./sessions/4_politicaleconomy2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">The Political-Economy of AI, Economic Value, and Beyond II</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/5_personalisation.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems</span></a>
+  <a href="./sessions/5_personalisation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/6_copyright.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">AI, Music and Copyright</span></a>
+  <a href="./sessions/6_copyright.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">AI, Music and Copyright</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/7_others.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">ML and its Others: Can AI Be Decolonised?</span></a>
+  <a href="./sessions/7_others.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">ML and its Others: Can AI Be Decolonised?</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/8_creativepractice.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Machine Learning and Creative Practice</span></a>
+  <a href="./sessions/8_creativepractice.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Machine Learning and Creative Practice</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sessions/9_artcritique.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">AI and Artistic Critique</span></a>
+  <a href="./sessions/9_artcritique.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">AI and Artistic Critique</span></span></a>
   </div>
 </li>
       </ul>
@@ -337,104 +346,150 @@ window.Quarto = {
 
 
 
-<p>These are the sessions.</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="2" data-listing-word-count-sort="315">
-<a href="./sessions/1_culture.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Culture, Interdisciplinarity, and ML
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
-<a href="./sessions/2_models.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Objects of ML
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
-<a href="./sessions/3_politicaleconomy1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Political-Economy of AI, Economic Value, and Beyond I
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
-<a href="./sessions/4_politicaleconomy2.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Political-Economy of AI, Economic Value, and Beyond II
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="2" data-listing-word-count-sort="302">
-<a href="./sessions/5_personalisation.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="1" data-listing-word-count-sort="191">
-<a href="./sessions/6_copyright.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-AI, Music and Copyright
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="2" data-listing-word-count-sort="278">
-<a href="./sessions/7_others.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-ML and its Others: Can AI Be Decolonised?
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="1" data-listing-word-count-sort="167">
-<a href="./sessions/8_creativepractice.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Machine Learning and Creative Practice
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1785942866230" data-listing-reading-time-sort="1" data-listing-word-count-sort="170">
-<a href="./sessions/9_artcritique.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-AI and Artistic Critique
-</h5>
-</div>
-</div></a>
-</div>
-</div>
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+ 
+</th>
+
+<th>
+Title
+</th>
+
+<th>
+Author
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-file-modified-sort="1785944611418" data-listing-reading-time-sort="2" data-listing-word-count-sort="315" data-listing-title-sort="Culture, Interdisciplinarity, and ML" data-listing-filename-sort="1_culture.qmd">
+<td>
+<span class="listing-order">1</span>
+</td>
+<td>
+<a href="./sessions/1_culture.html" class="title listing-title">Culture, Interdisciplinarity, and ML</a>
+</td>
+<td>
+<span class="listing-author">Georgina Born (University College London)</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="2" data-listing-word-count-sort="258" data-listing-title-sort="The Objects of ML" data-listing-filename-sort="2_models.qmd">
+<td>
+<span class="listing-order">2</span>
+</td>
+<td>
+<a href="./sessions/2_models.html" class="title listing-title">The Objects of ML</a>
+</td>
+<td>
+<span class="listing-author">Owen Green (University College London)</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="2" data-listing-word-count-sort="271" data-listing-title-sort="The Political-Economy of AI, Economic Value, and Beyond I" data-listing-filename-sort="3_politicaleconomy1.qmd">
+<td>
+<span class="listing-order">3</span>
+</td>
+<td>
+<a href="./sessions/3_politicaleconomy1.html" class="title listing-title">The Political-Economy of AI, Economic Value, and Beyond I</a>
+</td>
+<td>
+<span class="listing-author">Eric Drott (University of Texas, Austin)</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="2" data-listing-word-count-sort="276" data-listing-title-sort="The Political-Economy of AI, Economic Value, and Beyond II" data-listing-filename-sort="4_politicaleconomy2.qmd">
+<td>
+<span class="listing-order">4</span>
+</td>
+<td>
+<a href="./sessions/4_politicaleconomy2.html" class="title listing-title">The Political-Economy of AI, Economic Value, and Beyond II</a>
+</td>
+<td>
+<span class="listing-author">Oliver Bown (University of New South Wales, Sydney)</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="2" data-listing-word-count-sort="302" data-listing-title-sort="ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems" data-listing-filename-sort="5_personalisation.qmd">
+<td>
+<span class="listing-order">5</span>
+</td>
+<td>
+<a href="./sessions/5_personalisation.html" class="title listing-title">ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems</a>
+</td>
+<td>
+<span class="listing-author">Georgina Born (University College London), Fernando Diaz (Carnegie Mellon University, Google)</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="1" data-listing-word-count-sort="191" data-listing-title-sort="AI, Music and Copyright" data-listing-filename-sort="6_copyright.qmd">
+<td>
+<span class="listing-order">6</span>
+</td>
+<td>
+<a href="./sessions/6_copyright.html" class="title listing-title">AI, Music and Copyright</a>
+</td>
+<td>
+<span class="listing-author">Georgina Born (University College London), Eric Drott (University of Texas, Austin), Oliver Bown (University of New South Wales, Sydney), Owen Green (University College London)</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="2" data-listing-word-count-sort="278" data-listing-title-sort="ML and its Others: Can AI Be Decolonised?" data-listing-filename-sort="7_others.qmd">
+<td>
+<span class="listing-order">7</span>
+</td>
+<td>
+<a href="./sessions/7_others.html" class="title listing-title">ML and its Others: Can AI Be Decolonised?</a>
+</td>
+<td>
+<span class="listing-author">Darci Sprengel (King’s College London)</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="1" data-listing-word-count-sort="167" data-listing-title-sort="Machine Learning and Creative Practice" data-listing-filename-sort="8_creativepractice.qmd">
+<td>
+<span class="listing-order">8</span>
+</td>
+<td>
+<a href="./sessions/8_creativepractice.html" class="title listing-title">Machine Learning and Creative Practice</a>
+</td>
+<td>
+<span class="listing-author">Aaron Einbond (City University, London), Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-listing-file-modified-sort="1785944611419" data-listing-reading-time-sort="1" data-listing-word-count-sort="170" data-listing-title-sort="AI and Artistic Critique" data-listing-filename-sort="9_artcritique.qmd">
+<td>
+<span class="listing-order">9</span>
+</td>
+<td>
+<a href="./sessions/9_artcritique.html" class="title listing-title">AI and Artistic Critique</a>
+</td>
+<td>
+<span class="listing-author">Christopher Haworth (University of Birmingham)</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -845,7 +900,7 @@ AI and Artistic Critique
   </div>
   <div class="nav-page nav-page-next">
       <a href="./sessions/1_culture.html" class="pagination-link" aria-label="Culture, Interdisciplinarity, and ML">
-        <span class="nav-page-text"><span class="chapter-title">Culture, Interdisciplinarity, and ML</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Culture, Interdisciplinarity, and ML</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

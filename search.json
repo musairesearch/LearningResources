@@ -42,109 +42,109 @@
   {
     "objectID": "sessions.html",
     "href": "sessions.html",
-    "title": "The sessions",
+    "title": "Sessions",
     "section": "",
-    "text": "These are the sessions.\n\n\n\n\n\n\n\n\n\n\n\nCulture, Interdisciplinarity, and ML\n\n\n\n\n\n\n\n\n\nThe Objects of ML\n\n\n\n\n\n\n\n\n\nThe Political-Economy of AI, Economic Value, and Beyond I\n\n\n\n\n\n\n\n\n\nThe Political-Economy of AI, Economic Value, and Beyond II\n\n\n\n\n\n\n\n\n\nML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems\n\n\n\n\n\n\n\n\n\nAI, Music and Copyright\n\n\n\n\n\n\n\n\n\nML and its Others: Can AI Be Decolonised?\n\n\n\n\n\n\n\n\n\nMachine Learning and Creative Practice\n\n\n\n\n\n\n\n\n\nAI and Artistic Critique\n\n\n\n\n\nNo matching items",
+    "text": "Title\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n1\n\n\nCulture, Interdisciplinarity, and ML\n\n\nGeorgina Born (University College London)\n\n\n\n\n\n\n2\n\n\nThe Objects of ML\n\n\nOwen Green (University College London)\n\n\n\n\n\n\n3\n\n\nThe Political-Economy of AI, Economic Value, and Beyond I\n\n\nEric Drott (University of Texas, Austin)\n\n\n\n\n\n\n4\n\n\nThe Political-Economy of AI, Economic Value, and Beyond II\n\n\nOliver Bown (University of New South Wales, Sydney)\n\n\n\n\n\n\n5\n\n\nML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems\n\n\nGeorgina Born (University College London), Fernando Diaz (Carnegie Mellon University, Google)\n\n\n\n\n\n\n6\n\n\nAI, Music and Copyright\n\n\nGeorgina Born (University College London), Eric Drott (University of Texas, Austin), Oliver Bown (University of New South Wales, Sydney), Owen Green (University College London)\n\n\n\n\n\n\n7\n\n\nML and its Others: Can AI Be Decolonised?\n\n\nDarci Sprengel (King’s College London)\n\n\n\n\n\n\n8\n\n\nMachine Learning and Creative Practice\n\n\nAaron Einbond (City University, London), Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)\n\n\n\n\n\n\n9\n\n\nAI and Artistic Critique\n\n\nChristopher Haworth (University of Birmingham)\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "The sessions"
+      "Sessions"
     ]
   },
   {
     "objectID": "sessions/1_culture.html",
     "href": "sessions/1_culture.html",
-    "title": "Culture, Interdisciplinarity, and ML",
+    "title": "1  Culture, Interdisciplinarity, and ML",
     "section": "",
     "text": "Abstract\nIntroductory overview: setting the agenda regarding getting ‘beyond ethics’ in critical thinking about ML, in favour of the necessity of developing wider interdisciplinary and structural understandings of AI/ML. Establishing music as an exemplary domain for thinking through these issues, and introducing the MusAI research program’s attempts to develop critical accounts of AI and music, and this course as a key experimental step in our work. A first lens on these issues is through recent debates on ‘AI and culture’, drawing out, via a focus on recommender systems, how culture gets into ML in several distinct ways. From this to the question of how ML applications configure human users, employing ideas from Science and Technology Studies (STS) – and asking: could it be otherwise?\n\n\nVideos\n\n\nCore Readings\nBorn, G. (2023). ‘What is a Music Recommender System, How do Culture and Society Get Into It, and How Can It Be Oriented to the Public Good?’. Keynote lecture for the MuRS: Music Recommender Systems Workshop at the 2023 ACM Recommender Systems (RecSys) Conference, Singapore.\nAkrich, Madeleine. (1992) ‘The De-Scription of Technical Objects’. In Shaping Technology / Building Society: Studies in Sociotechnical Change, edited by Wiebe E. Bijker and John Law, 205–24. (MIT Press).\n\n\nFurther Reading\nBarry, A., Born, G., & Weszkalnys, G. (2008). ‘Logics of Interdisciplinarity’. Economy and Society, 37(1), 20–49. https://doi.org/10.1080/03085140701760841\nKind, C. (2020). ‘The Term ‘Ethical AI’ is Finally Starting to Mean Something’. VentureBeat. https://venturebeat.com/ai/the-term-ethical-ai-is-finally-starting-to-mean-something/\nBirhane, A. (2021). ‘Algorithmic Injustice: A Relational Ethics Approach’. Patterns, 2(2), 100205. https://doi.org/10.1016/j.patter.2021.100205\nBorn, G., & Barry, A. (2010). ‘Art-Science: From Public Understanding to Public Experiment’. Journal of Cultural Economy, 3(1), 103–119. https://doi.org/10.1080/17530351003617610\nHolzapfel, Andre, Bob L. Sturm, and Mark Coeckelbergh. (2018) ‘Ethical Dimensions of Music Information Retrieval Technology’. Transactions of the International Society for Music Information Retrieval 1(1) https://doi.org/10.5334/tismir.13.\nOudshoorn, N., & Pinch, T. (2003). ‘Introduction: How Users and Non-Users Matter’, in Oudshoorn and Pinch (eds.), How Users Matter: The Co-Construction of Users and Technology. (MIT Press). https://doi.org/10.7551/mitpress/3592.003.0002",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Culture, Interdisciplinarity, and ML</span>"
     ]
   },
   {
     "objectID": "sessions/2_models.html",
     "href": "sessions/2_models.html",
-    "title": "The Objects of ML",
+    "title": "2  The Objects of ML",
     "section": "",
     "text": "Abstract\nHow does ML conceptualize the objects it models, such as ‘music’ in music information retrieval? Through the question of musical genre – as a particular kind of musical object – we can see radical reductions in how music is often modelled. This has epistemological consequences for what these models can tell us in research, but also quite possibly ontological consequences if – as some argue – models of social and cultural phenomena, such as music or genre, do not merely describe or predict but are performatively changing the very thing they model.\n\n\nVideos\n\n\nCore Readings\nGreen, Owen, Bob L. T. Sturm, Georgina Born, and Melanie Wald-Fuhrmann. ‘A Critical Survey of Research in Music Genre Recognition’. In Proceedings of the 25th International Society for Music Information Retrieval, 2024. https://ismir2024program.ismir.net/poster_149.html.\nSalamon, Justin. ‘What’s Broken in Music Informatics Research? Three Uncomfortable Statements’. In 36th International Conference on Machine Learning (ICML), Workshop on Machine Learning for Music Discovery. Long Beach, CA, USA, 2019.\n\n\nFurther Readings\nAndersson, C., Törnberg, A., & Törnberg, P. (2014). Societal systems – Complex or worse? Futures, 63, 145–157. https://doi.org/10.1016/j.futures.2014.07.003\nBorn, G. (2011). Music and the materialization of identities. Journal of Material Culture, 16(4), 376–388. https://doi.org/10.1177/1359183511424196\nHealy, K. (2017). Fuck Nuance. Sociological Theory, 35(2), 118–127. https://doi.org/10.1177/0735275117709046\nKockelman, P. (2020). The Epistemic and Performative Dynamics of Machine Learning Praxis. Signs and Society, 8(2), 319–355. https://doi.org/10.1086/708249\nSterne, Jonathan. ‘Is Machine Listening Listening?’ communication +1 9, no. 1 (31 October 2022). https://doi.org/10.7275/zeqh-eg38.\nWiggins, Geraint. ‘Semantic Gap?? Schemantic Schmap‼ Methodological Considerations in the Scientific Study of Music’. In 11th IEEE International Symposium on Multimedia, 2009. ISM ’09, 477–82, 2009. https://doi.org/10.1109/ISM.2009.36.",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>The Objects of ML</span>"
     ]
   },
   {
     "objectID": "sessions/3_politicaleconomy1.html",
     "href": "sessions/3_politicaleconomy1.html",
-    "title": "The Political-Economy of AI, Economic Value, and Beyond I",
+    "title": "3  The Political-Economy of AI, Economic Value, and Beyond I",
     "section": "",
     "text": "Abstract\nHow do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.\n\n\nVideos\n\n\nCore Readings\nDrott, Eric. ‘Four Conditions (and a Contradiction) in the Political Economy of Commercial Music AI.’ Forthcoming.\n\n\nFurther Readings\nCellard, L., Parker, C., & Haines, F. (2025). Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning’s carbon footprint. Environment and Planning E, 25148486251332087. https://doi.org/10.1177/25148486251332087\nHesmondhalgh, D. (2012). ‘Towards a Political Aesthetics of Music’, in The Cultural Study of Music: A Critical Introduction, 364–374.\nBown, O. (2025 - in review). ‘The Song Remains the Same and the Beat Goes On: Prospecting the Rise of DATaPoP (Deciding Artistic Things at Point of Playback)’. Forthcoming.\nSag, M., & Yu, P. K. (2025). ‘The Globalization of Copyright Exceptions for AI Training. Emory Law Journal, 74.\nLaw, H. (2025). ‘The Slop Must Flow: AI and the Case for Creative Abundance’. https://www.learningfromexamples.com/p/the-slop-must-flow\nCrawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (Yale, 2021), esp. chapter 1, ‘Earth’.\nCrawford, K. and Joler, V., “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (2018) https://anatomyof.ai",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Political-Economy of AI, Economic Value, and Beyond I</span>"
     ]
   },
   {
     "objectID": "sessions/4_politicaleconomy2.html",
     "href": "sessions/4_politicaleconomy2.html",
-    "title": "The Political-Economy of AI, Economic Value, and Beyond II",
+    "title": "4  The Political-Economy of AI, Economic Value, and Beyond II",
     "section": "",
     "text": "Abstract\nHow do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.\n\n\nVideos\n\n\nCore Readings\nBown, Oliver. ‘Blind Search and Flexible Product Visions: The Sociotechnical Shaping of Generative Music Engines’. AI & Society, March 2024. https://doi.org/10.1007/s00146-024-01862-x.\n\n\nFurther Readings\nCellard, L., Parker, C., & Haines, F. (2025). Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning’s carbon footprint. Environment and Planning E, 25148486251332087. https://doi.org/10.1177/25148486251332087\nHesmondhalgh, D. (2012). ‘Towards a Political Aesthetics of Music’, in The Cultural Study of Music: A Critical Introduction, 364–374.\nBown, O. (2025 - in review). ‘The Song Remains the Same and the Beat Goes On: Prospecting the Rise of DATaPoP (Deciding Artistic Things at Point of Playback)’. Forthcoming.\nSag, M., & Yu, P. K. (2025). ‘The Globalization of Copyright Exceptions for AI Training. Emory Law Journal, 74.\nLaw, H. (2025). ‘The Slop Must Flow: AI and the Case for Creative Abundance’. https://www.learningfromexamples.com/p/the-slop-must-flow\nCrawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (Yale, 2021), esp. chapter 1, ‘Earth’.\nCrawford, K. and Joler, V., “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (2018) https://anatomyof.ai",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political-Economy of AI, Economic Value, and Beyond II</span>"
     ]
   },
   {
     "objectID": "sessions/5_personalisation.html",
     "href": "sessions/5_personalisation.html",
-    "title": "ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems",
+    "title": "5  ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems",
     "section": "",
     "text": "Abstract\nWith ideas around political economy, value and the user in hand, we venture beyond this to consider the limits of personalization as a paradigm, and introduce ideas of public value. Focus on a case study of a combined conceptual-and-technical intervention: a new metric for recommender systems conceived around notions of public value.\n\n\nVideos\n\n\nCore Readings\nFerraro, Andres, Gustavo Ferreira, Fernando Diaz, and Georgina Born. “Measuring Commonality in Recommendation of Cultural Content to Strengthen Cultural Citizenship.” ACM Transactions on Recommender Systems 2, no. 1 (2024): 1-32. [Full version - shorter version below]\nBorn, Georgina and Fernando Diaz, “A Public Service Media Perspective on the Algorithmic Amplification of Cultural Content”, Knight First Amendment Institute at Columbia University (2024): https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content\n\n\nFurther Readings\nAndrejevic, Mark. ‘Data civics: A response to the “ethical turn”’. Television & New Media, 21(6), pp. 562-567. (2020)\nBorn, Georgina. ‘Mediating the Public Sphere’, in C. Emden and D. Midgley, Beyond Habermas: Democracy, Knowledge, and the Public Sphere (2012).\nAgre, Philip E. ‘Toward a Critical Technical Practice: Lessons learned in trying to reform AI’, in Social Science, Technical Systems, and Cooperative Work, pp. 131-157. (2014).\nBorn, Georgina, Jeremy Morris, Fernando Diaz, and Ashton Anderson. “Artificial intelligence, Music Recommendation, and the Curation of Culture.” (2021). https://utoronto.scholaris.ca/server/api/core/bitstreams/3fee35e6-48e7-444a-8b4f-e40afadd7bae/content\nBown, Oliver. ‘From Genies Performing Magic to Sages Imparting Wisdom: A Value-Centred Survey of Music AI User Interfaces, Creative Affordances and Artist Objectives’. Journal of New Music Research, 1–14 (2025). https://doi.org/10.1080/09298215.2024.2442360.\nFerraro, Andres, Gustavo Ferreira, Fernando Diaz, and Georgina Born. ‘Measuring Commonality in Recommendation of Cultural Content: Recommender Systems to Enhance Cultural Citizenship’. In Proceedings of the 16th ACM Conference on Recommender Systems, 567–72. RecSys ’22. New York, NY, USA: Association for Computing Machinery (2022). https://doi.org/10.1145/3523227.3551476. [Shorter version of first core paper]\nSeaver, Nick. ‘Algorithmic Recommendations and Synaptic Functions’. Limn, no. 2 (2012) https://limn.press/article/algorithmic-recommendations-and-synaptic-functions/.\nSeaver, Nick. Computing Taste: Algorithms and the Makers of Music Recommendation (2022)",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems</span>"
     ]
   },
   {
     "objectID": "sessions/6_copyright.html",
     "href": "sessions/6_copyright.html",
-    "title": "AI, Music and Copyright",
+    "title": "6  AI, Music and Copyright",
     "section": "",
     "text": "Abstract\nCriticism of generative AI for music is often framed in terms of copyright and the expropriation of creative labour. However, is this the productive critical perspective? (Musical) copyright, whilst heterogeneous and highly complex, tends to account for a narrow selection of musical qualities and critique on the basis of straightforward plagiarism oversimplifies the processes at work in generative systems.\n\n\nVideos\n\n\nCore Reading\nBorn, G., Bown, O., Drott, E., & Green, O. (Forthcoming 2026). From Copyright to Commons: Generative AI in Music, Copyright’s Informational Remainder, and Aggregate. Cambridge Forum on AI: Culture and Society.\n\n\nFurther Reading\nCraig, C. (2025). The AI-Copyright Trap. Chicago-Kent Law Review, 100(1), 107.\nDrott, E. (2021). Copyright, compensation, and commons in the music AI industry. Creative Industries Journal, 14(2), 190–207. https://doi.org/10.1080/17510694.2020.1839702\nMcKelvey, F., Simon, B., & Frizzera, L. (2026). Generative AI and the information commons: Controversy, copyright, and closure. Information, Communication & Society, 29(6), 1890–1911. https://doi.org/10.1080/1369118X.2025.2565328\nParker, J., & Goldstein, J. (2025). Labor not property: Why artists are fighting the wrong battle on gener. Verso Blog. https://www.versobooks.com/en-gb/blogs/news/labor-not-property-why-artists-are-fighting-the-wrong-battle-on-generative-ai\nSag, M., & Yu, P. K. (2024). The Globalization of Copyright Exceptions for AI Training (SSRN Scholarly Paper No. 4976393). Social Science Research Network. https://doi.org/10.2139/ssrn.4976393",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI, Music and Copyright</span>"
     ]
   },
   {
     "objectID": "sessions/7_others.html",
     "href": "sessions/7_others.html",
-    "title": "ML and its Others: Can AI Be Decolonised?",
+    "title": "7  ML and its Others: Can AI Be Decolonised?",
     "section": "",
     "text": "Abstract\nThis week explores the limitations of decolonising AI in the music industry. It questions whether AI, as a socio-technical assemblage always embedded in its larger cultural and historical contexts, is a coherent object that can be decolonised. Using the Arabic music industries based out of the UAE and Egypt, as well as Anghami, a Beirut-based music streaming service, as case studies, it demonstrates how the Arabic music industry operationalises AI in ways that both challenge and uphold relations of power within the region and beyond. Most broadly, it shows the limitations of decolonising AI even when starting from the epistemologies of listeners and musicians in the global South.\n\n\nVideos\n\n\nCore Readings\nSprengel, Darci. ‘Can AI Be Decolonised?: Notes from the Arabic Music Industry’ (forthcoming 2025).\nBorn, Georgina. ‘Diversifying MIR: Knowledge and Real-World Challenges, and New Interdisciplinary Futures’. Transactions of the International Society for Music Information Retrieval 3, no. 1 (2020): 193–204. https://doi.org/10.5334/tismir.58.\n\n\nFurther Readings\nArun, C. (2020). AI and the Global South: Designing for Other Worlds. In M. D.\nDubber, F. Pasquale, & S. Das (Eds.), The Oxford Handbook of Ethics of AI (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190067397.013.38\nClark, Emily Hansell. ‘A Postcolonial MIR?’ Resonance 3, no. 4 (1 December 2022): 412–32. https://doi.org/10.1525/res.2022.3.4.412.\nD’Ignazio, C. & L. F. Klein (2020). Introduction. In C. D’Ignazio & L. F. Klein, Data Feminism (pp. 1–23). MIT Press. https://data-feminism.mitpress.mit.edu/\nHuang, R. S., Holzapfel, A., Sturm, B. L. T., & Kaila, A.-K. (2023). Beyond Diverse Datasets: Responsible MIR, Interdisciplinarity, and the Fractured Worlds of Music. Transactions of the International Society for Music Information Retrieval, 6(1), 43–59. https://doi.org/10.5334/tismir.141\nMuldoon, J., & Wu, B. A. (2023). Artificial Intelligence in the Colonial Matrix of Power. Philosophy & Technology, 36(4), 80. https://doi.org/10.1007/s13347-023-00687-8",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ML and its Others: Can AI Be Decolonised?</span>"
     ]
   },
   {
     "objectID": "sessions/8_creativepractice.html",
     "href": "sessions/8_creativepractice.html",
-    "title": "Machine Learning and Creative Practice",
+    "title": "8  Machine Learning and Creative Practice",
     "section": "",
     "text": "Abstract\nWhat kinds of technical and artistic innovation does ML enable? What is the relationship between them and how are they shaped by aesthetic concerns? Can artistic work with ML serve as a source of critique, informed by humanities scholarship? We examine contemporary and critical practice in musical composition with ML.\n\n\nVideos\n\n\nCore Readings\nEinbond, Aaron ‘Magic of Machine Learning: Interdisciplinary Composition and Collaboration in Prestidigitation’ (forthcoming 2025)\nGioti, Artemi-Maria, Aaron Einbond, and Georgina Born. ‘Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning’. Computer Music Journal 46, no. 4 (2022): 62–80. https://doi.org/10.1162/comj_a_00658.\n\n\nFurther Readings\nBorn, G. (2005). On Musical Mediation: Ontology, Technology and Creativity. Twentieth-Century Music, 2(1), 7–36. Goldsmith, Kennth, ‘Introduction’ in Uncreative Writing. New York: Columbia University Press, 201, pp 1-13\nLewis, G. E. 1999. “Interacting with Latter-Day Musical Automata.” Contemporary Music Review 18(3):99–112. 10.1080/07494469900640381\nMalafouris, L. 2008. “At the Potter’s Wheel: An Argument for Material Agency.” In C. Knappett and L. Malafouris, eds. Material Agency: Towards a Non-Anthropocentric Approach. Berlin: Springer, pp. 19–36.",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Machine Learning and Creative Practice</span>"
     ]
   },
   {
     "objectID": "sessions/9_artcritique.html",
     "href": "sessions/9_artcritique.html",
-    "title": "AI and Artistic Critique",
+    "title": "9  AI and Artistic Critique",
     "section": "",
     "text": "Abstract\nWhat is artistic critique in relation to AI, and how does it relate to other configurations of art’s relationship to technoscience — for instance ideological, demonstrative, collaborative? What use is critique generally in relation to AI and technoscience, and what use is artistic critique specifically? How does the history of AI critique in music relate to canonical philosophical and humanistic critiques of AI?\n\n\nVideos\n\n\nCore Readings\nHaworth, C., 2021. ‘Introduction to Music and Cybernetics in Historical Perspective’ (Eds C. Haworth and E. Drott). Resonance: The Journal of Sound and Culture, 2(4), pp.461-474.\nHaworth, C., 2025. ‘AI Winters, Cybernetic Springs: Species of AI critique in the work of Maryanne Amacher and David Tudor’, forthcoming in Cambridge Forum on AI: Culture and Society, 1(3).\n\n\nFurther Readings\nStark, L. and Crawford, K., 2019. ‘The Work of Art in the Age of Artificial Intelligence: What artists can teach us about the ethics of data practice’. Surveillance & Society, 17(3/4), pp.442-455.\nDreyfus, H.L., 1992. What Computers Still Can’t Do: A Critique of Artificial Reason. The MIT Press. (excerpt).",
     "crumbs": [
-      "The sessions",
+      "Sessions",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>AI and Artistic Critique</span>"
     ]
   },
