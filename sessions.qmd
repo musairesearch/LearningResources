@@ -1,9 +1,12 @@
 ---
-title: "The sessions"
+title: "Sessions"
 listing:  
     contents: "sessions/*.qmd"
-    type: grid 
-    fields: [title]
+    type: table 
+    field-display-names:
+        order: " "
+    fields: [order, title, author]
+    sort: "order asc"
+    sort-ui: false
+    filter-ui: false
 ---
-
-These are the sessions. 

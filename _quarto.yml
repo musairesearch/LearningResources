@@ -40,7 +40,8 @@ bibliography: playground/references.bib
 
 format:
   html:
-    number-sections: false
+    number-sections: true
+    number-depth: 0
     theme:
       - litera
       - theme-light.scss 

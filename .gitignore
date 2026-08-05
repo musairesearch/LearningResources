@@ -6,6 +6,7 @@ journal_files/*
 
 **/*.quarto_ipynb
 
+**/.DS_Store
 .DS_Store
 .vscode/*
 /.quarto/
