@@ -1,5 +1,6 @@
 ---
 title: "The Political Economy of AI Music (II)"
+subtitle: "AI, Music, Value and Innovation"
 author: "Oliver Bown (University of New South Wales, Sydney)"
 order: 4
 ---
