@@ -13,10 +13,8 @@ How do we think the forms of value that ML might produce, and the costs that it 
 ## Part 1
 {{<video https://youtu.be/ju8VPN5YcfI>}}
 
-## Part 2a
+## Part 2
 {{<video https://youtu.be/XHVv_lZlr08>}}
-
-## Part 2b
 {{<video https://youtu.be/SbDSu1u0-q8>}}
 
 # Core Readings
