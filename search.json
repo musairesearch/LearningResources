@@ -44,7 +44,7 @@
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Title\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n1\n\n\nCulture, Interdisciplinarity, and ML\n\n\nGeorgina Born (University College London)\n\n\n\n\n\n\n2\n\n\nThe Objects of ML\n\n\nOwen Green (University College London)\n\n\n\n\n\n\n3\n\n\nThe Political-Economy of AI, Economic Value, and Beyond I\n\n\nEric Drott (University of Texas, Austin)\n\n\n\n\n\n\n4\n\n\nThe Political-Economy of AI, Economic Value, and Beyond II\n\n\nOliver Bown (University of New South Wales, Sydney)\n\n\n\n\n\n\n5\n\n\nML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems\n\n\nGeorgina Born (University College London), Fernando Diaz (Carnegie Mellon University, Google)\n\n\n\n\n\n\n6\n\n\nAI, Music and Copyright\n\n\nGeorgina Born (University College London), Eric Drott (University of Texas, Austin), Oliver Bown (University of New South Wales, Sydney), Owen Green (University College London)\n\n\n\n\n\n\n7\n\n\nML and its Others: Can AI Be Decolonised?\n\n\nDarci Sprengel (King’s College London)\n\n\n\n\n\n\n8\n\n\nMachine Learning and Creative Practice\n\n\nAaron Einbond (City University, London), Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)\n\n\n\n\n\n\n9\n\n\nAI and Artistic Critique\n\n\nChristopher Haworth (University of Birmingham)\n\n\n\n\n\n\nNo matching items",
+    "text": "Title\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n1\n\n\nCulture, Interdisciplinarity, and ML\n\n\nGeorgina Born (University College London)\n\n\n\n\n\n\n2\n\n\nThe Objects of ML\n\n\nOwen Green (University College London)\n\n\n\n\n\n\n3\n\n\nThe Political Economy of AI Music (I)\n\n\nEric Drott (University of Texas, Austin)\n\n\n\n\n\n\n4\n\n\nThe Political Economy of AI Music (II)\n\n\nOliver Bown (University of New South Wales, Sydney)\n\n\n\n\n\n\n5\n\n\nML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems\n\n\nGeorgina Born (University College London), Fernando Diaz (Carnegie Mellon University, Google)\n\n\n\n\n\n\n6\n\n\nAI, Music and Copyright\n\n\nGeorgina Born (University College London), Eric Drott (University of Texas, Austin), Oliver Bown (University of New South Wales, Sydney), Owen Green (University College London)\n\n\n\n\n\n\n7\n\n\nML and its Others: Can AI Be Decolonised?\n\n\nDarci Sprengel (King’s College London)\n\n\n\n\n\n\n8\n\n\nMachine Learning and Creative Practice\n\n\nAaron Einbond (City University, London), Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)\n\n\n\n\n\n\n9\n\n\nAI and Artistic Critique\n\n\nChristopher Haworth (University of Birmingham)\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Sessions"
     ]
@@ -74,23 +74,111 @@
   {
     "objectID": "sessions/3_politicaleconomy1.html",
     "href": "sessions/3_politicaleconomy1.html",
-    "title": "3  The Political-Economy of AI, Economic Value, and Beyond I",
+    "title": "3  The Political Economy of AI Music (I)",
     "section": "",
-    "text": "Abstract\nHow do we think the forms of value that ML might produce, and the costs that it entails? What are the economic conditions that have enabled the recent profusion of AI music companies, and that have shaped the products and services they have developed? How does commercial music AI relate to the broader music ecosystem, and what might be the longer-term impact of their entanglement? Introduction to the political economy of AI music, and the implications it may have for the future of music cultures and music as a common resource.\n\n\nVideos\n\n\nCore Readings\nDrott, Eric. ‘Commons Capital, Commons Collapse, and the Political Economy of Commercial Music AI.’ Forthcoming.\n\n\nFurther Readings\nCrawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale. Esp. chapter 1, ‘Earth’.\nDrott, E. (2021). Copyright, Compensation, and Commons in the Music AI Industry. Creative Industries Journal, 14(2), 190-207.\nLeyshon, A., and Watson, A. (2025) The Rise of the Platform Music Industries. Agenda. Esp. ch. 3.\nMorreale, F., Martinez-Ramirez, M. A., Masu, R., Liao, W., & Mitsufuji, Y. (2025). Reductive, exclusionary, normalising: the limits of generative AI music. Transactions of the International Society for Music Information Retrieval, 8(1), 300-312.\nRikap, C. (2026) The Rulers: Corporate Power in the Age of AI and the Cloud. Verso\nSrnicek, N. (2026). Silicon Empires: The Fight for the Future of AI. Polity.",
+    "text": "Abstract\nHow do we think the forms of value that ML might produce, and the costs that it entails? What are the economic conditions that have enabled the recent profusion of AI music companies, and that have shaped the products and services they have developed? How does commercial music AI relate to the broader music ecosystem, and what might be the longer-term impact of their entanglement? Introduction to the political economy of AI music, and the implications it may have for the future of music cultures and music as a common resource.",
     "crumbs": [
       "Sessions",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Political-Economy of AI, Economic Value, and Beyond I</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Political Economy of AI Music (I)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/3_politicaleconomy1.html#part-1",
+    "href": "sessions/3_politicaleconomy1.html#part-1",
+    "title": "3  The Political Economy of AI Music (I)",
+    "section": "Part 1",
+    "text": "Part 1",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Political Economy of AI Music (I)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/3_politicaleconomy1.html#part-2a",
+    "href": "sessions/3_politicaleconomy1.html#part-2a",
+    "title": "3  The Political Economy of AI Music (I)",
+    "section": "Part 2a",
+    "text": "Part 2a",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Political Economy of AI Music (I)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/3_politicaleconomy1.html#part-2b",
+    "href": "sessions/3_politicaleconomy1.html#part-2b",
+    "title": "3  The Political Economy of AI Music (I)",
+    "section": "Part 2b",
+    "text": "Part 2b",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>The Political Economy of AI Music (I)</span>"
     ]
   },
   {
     "objectID": "sessions/4_politicaleconomy2.html",
     "href": "sessions/4_politicaleconomy2.html",
-    "title": "4  The Political-Economy of AI, Economic Value, and Beyond II",
+    "title": "4  The Political Economy of AI Music (II)",
     "section": "",
-    "text": "Abstract\nHow do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.\n\n\nVideos\n\n\nCore Readings\nBown, Oliver. ‘Blind Search and Flexible Product Visions: The Sociotechnical Shaping of Generative Music Engines’. AI & Society, March 2024. https://doi.org/10.1007/s00146-024-01862-x.\n\n\nFurther Readings\nCellard, L., Parker, C., & Haines, F. (2025). Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning’s carbon footprint. Environment and Planning E, 25148486251332087. https://doi.org/10.1177/25148486251332087\nHesmondhalgh, D. (2012). ‘Towards a Political Aesthetics of Music’, in The Cultural Study of Music: A Critical Introduction, 364–374.\nBown, O. (2025 - in review). ‘The Song Remains the Same and the Beat Goes On: Prospecting the Rise of DATaPoP (Deciding Artistic Things at Point of Playback)’. Forthcoming.\nSag, M., & Yu, P. K. (2025). ‘The Globalization of Copyright Exceptions for AI Training. Emory Law Journal, 74.\nLaw, H. (2025). ‘The Slop Must Flow: AI and the Case for Creative Abundance’. https://www.learningfromexamples.com/p/the-slop-must-flow\nCrawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (Yale, 2021), esp. chapter 1, ‘Earth’.\nCrawford, K. and Joler, V., “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (2018) https://anatomyof.ai",
+    "text": "Abstract\nHow do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.",
     "crumbs": [
       "Sessions",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political-Economy of AI, Economic Value, and Beyond II</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political Economy of AI Music (II)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/4_politicaleconomy2.html#intro",
+    "href": "sessions/4_politicaleconomy2.html#intro",
+    "title": "4  The Political Economy of AI Music (II)",
+    "section": "Intro",
+    "text": "Intro\n{{}}",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political Economy of AI Music (II)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/4_politicaleconomy2.html#part-1a",
+    "href": "sessions/4_politicaleconomy2.html#part-1a",
+    "title": "4  The Political Economy of AI Music (II)",
+    "section": "Part 1a",
+    "text": "Part 1a",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political Economy of AI Music (II)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/4_politicaleconomy2.html#part-1b",
+    "href": "sessions/4_politicaleconomy2.html#part-1b",
+    "title": "4  The Political Economy of AI Music (II)",
+    "section": "Part 1b",
+    "text": "Part 1b",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political Economy of AI Music (II)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/4_politicaleconomy2.html#part-2",
+    "href": "sessions/4_politicaleconomy2.html#part-2",
+    "title": "4  The Political Economy of AI Music (II)",
+    "section": "Part 2",
+    "text": "Part 2",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political Economy of AI Music (II)</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/4_politicaleconomy2.html#part-3",
+    "href": "sessions/4_politicaleconomy2.html#part-3",
+    "title": "4  The Political Economy of AI Music (II)",
+    "section": "Part 3",
+    "text": "Part 3",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>The Political Economy of AI Music (II)</span>"
     ]
   },
   {
