@@ -1,5 +1,6 @@
 ---
-title: "The Political-Economy of AI, Economic Value, and Beyond I"
+title: "The Political Economy of AI Music (I)"
+subtitle: "Conditions and consequences, continuities and contradictions"  
 author: "Eric Drott (University of Texas, Austin)"
 order: 3
 ---
@@ -9,6 +10,14 @@ order: 3
 How do we think the forms of value that ML might produce, and the costs that it entails? What are the economic conditions that have enabled the recent profusion of AI music companies, and that have shaped the products and services they have developed? How does commercial music AI relate to the broader music ecosystem, and what might be the longer-term impact of their entanglement? Introduction to the political economy of AI music, and the implications it may have for the future of music cultures and music as a common resource.
 
 # Videos 
+## Part 1
+{{<video https://youtu.be/ju8VPN5YcfI>}}
+
+## Part 2a
+{{<video https://youtu.be/XHVv_lZlr08>}}
+
+## Part 2b
+{{<video https://youtu.be/SbDSu1u0-q8>}}
 
 # Core Readings
 
