@@ -1,7 +1,7 @@
 ---
-title: "Machine Learning and Creative Practice"
-author: ["Aaron Einbond (City University, London)", "Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)"]
-order: 8
+title: "Machine Learning and Creative Practice (II)"
+author: "Artemi-Maria Gioti (Mozarteum University Salzburg, University College London)"
+order: 9
 ---
 
 # Abstract 

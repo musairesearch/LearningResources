@@ -2,7 +2,7 @@
 title: "AI and Artistic Critique"
 subtitle: "What is artistic critique in relation to AI?" 
 author: "Christopher Haworth (University of Birmingham)"
-order: 9
+order: 10
 ---
 
 # Abstract 

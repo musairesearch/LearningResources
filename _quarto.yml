@@ -29,8 +29,9 @@ book:
         - sessions/5_personalisation.qmd
         - sessions/6_copyright.qmd
         - sessions/7_others.qmd
-        - sessions/8_creativepractice.qmd
-        - sessions/9_artcritique.qmd
+        - sessions/8_creativepractice1.qmd
+        - sessions/9_creativepractice2.qmd
+        - sessions/10_artcritique.qmd
     - references.qmd
 
 
@@ -108,6 +109,11 @@ website:
   page-footer: |
     <img src="/images/logo_erc-flag_fp-edited.png" width="200" /> 
     <img src="/images/2560px-university_college_london_logo.svg_-2.webp" width="200" />
+    <br/>
+    <a href="https://musairesearch.github.io/LearningResources/">MusAI Learning Resources</a> © 2026 by <a href="https://musicairesearch.wordpress.com/">MusAI</a> is licensed under
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+    <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
   
 

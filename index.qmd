@@ -1,4 +1,4 @@
-# Course intro
+# Course intro {.unnumbered}
 
 TODO
 
