@@ -13,15 +13,18 @@ What kinds of technical and artistic innovation does ML enable? What is the rela
 
 # Core Readings 
 
-Einbond, Aaron ‘Magic of Machine Learning: Interdisciplinary Composition and Collaboration in Prestidigitation’ (forthcoming 2025) 
+Gioti, A.-M. (forthcoming 2026). Listening like an Algorithm: Ethnography of a Machine Listening System. Cambridge Forum on AI: Culture and Society.
 
-Gioti, Artemi-Maria, Aaron Einbond, and Georgina Born. ‘Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning’. Computer Music Journal 46, no. 4 (2022): 62–80. https://doi.org/10.1162/comj_a_00658.
 
 # Further Readings
 
 Born, G. (2005). On Musical Mediation: Ontology, Technology and Creativity. Twentieth-Century Music, 2(1), 7–36.
-Goldsmith, Kennth, ‘Introduction’ in Uncreative Writing. New York: Columbia University Press, 201, pp 1-13
 
-Lewis, G. E. 1999. “Interacting with Latter-Day Musical Automata.” Contemporary Music Review 18(3):99–112. 10.1080/07494469900640381
+Gioti, A.-M., Einbond, A., & Born, G. (2022). Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning. Computer Music Journal, 46(4), 62–80. 
 
-Malafouris, L. 2008. “At the Potter’s Wheel: An Argument for Material Agency.” In C. Knappett and L. Malafouris, eds. Material Agency: Towards a Non-Anthropocentric Approach. Berlin: Springer, pp. 19–36.
+Goldsmith, K. (2011). Uncreative Writing: Managing Language in the Digital Age, (Introduction pp. 1-13). Columbia University Press.
+
+Lewis, G. E. (1999). Interacting with latter-day musical automata. Contemporary Music Review, 18(3), 99–112. 
+
+Malafouris, L. (2008). At the Potter’s Wheel: An Argument for Material Agency. In C. Knappett & L. Malafouris (Eds.), Material Agency (pp. 19–36). Springer U
+
