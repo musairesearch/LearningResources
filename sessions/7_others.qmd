@@ -9,6 +9,14 @@ order: 7
 This week explores the limitations of decolonising AI in the music industry. It questions whether AI, as a socio-technical assemblage always embedded in its larger cultural and historical contexts, is a coherent object that can be decolonised. Using the Arabic music industries based out of the UAE and Egypt, as well as Anghami, a Beirut-based music streaming service, as case studies, it demonstrates how the Arabic music industry operationalises AI in ways that both challenge and uphold relations of power within the region and beyond. Most broadly, it shows the limitations of decolonising AI even when starting from the epistemologies of listeners and musicians in the global South.
 
 # Videos
+## Part 1
+{{<video https://youtu.be/Y9_bfzcs44Q>}}
+
+## Part 2
+{{<video https://youtu.be/b2yY6mDJQmM>}}
+
+## Part 3
+{{<video https://youtu.be/gvZ12t9kSZw>}}
 
 # Core Readings
 
