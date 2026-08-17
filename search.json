@@ -14,7 +14,7 @@
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Title\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n1\n\n\nCulture, Interdisciplinarity, and ML\n\n\nGeorgina Born (University College London)\n\n\n\n\n\n\n2\n\n\nThe Objects of ML\n\n\nOwen Green (University College London)\n\n\n\n\n\n\n3\n\n\nThe Political Economy of AI Music (I)\n\n\nEric Drott (University of Texas, Austin)\n\n\n\n\n\n\n4\n\n\nThe Political Economy of AI Music (II)\n\n\nOliver Bown (University of New South Wales, Sydney)\n\n\n\n\n\n\n5\n\n\nML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems\n\n\nGeorgina Born (University College London), Fernando Diaz (Carnegie Mellon University, Google)\n\n\n\n\n\n\n6\n\n\nAI, Music and Copyright\n\n\nGeorgina Born (University College London), Eric Drott (University of Texas, Austin), Oliver Bown (University of New South Wales, Sydney), Owen Green (University College London)\n\n\n\n\n\n\n7\n\n\nML and its Others: Can AI Be Decolonised?\n\n\nDarci Sprengel (King’s College London)\n\n\n\n\n\n\n8\n\n\nMachine Learning and Creative Practice (I)\n\n\nAaron Einbond (City University, London)\n\n\n\n\n\n\n9\n\n\nMachine Learning and Creative Practice (II)\n\n\nArtemi-Maria Gioti (Mozarteum University Salzburg, University College London)\n\n\n\n\n\n\n10\n\n\nAI and Artistic Critique\n\n\nChristopher Haworth (University of Birmingham)\n\n\n\n\n\n\nNo matching items",
+    "text": "Title\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n1\n\n\nCulture, Interdisciplinarity, and ML\n\n\nGeorgina Born (University College London)\n\n\n\n\n\n\n2\n\n\nThe Objects of ML\n\n\nOwen Green (University College London)\n\n\n\n\n\n\n3\n\n\nThe Political Economy of AI Music (I)\n\n\nEric Drott (University of Texas, Austin)\n\n\n\n\n\n\n4\n\n\nThe Political Economy of AI Music (II)\n\n\nOliver Bown (University of New South Wales, Sydney)\n\n\n\n\n\n\n5\n\n\nML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems\n\n\nGeorgina Born (University College London), Fernando Diaz (Carnegie Mellon University, Google)\n\n\n\n\n\n\n6\n\n\nAI, Music and Copyright\n\n\nEric Drott (University of Texas, Austin), Oliver Bown (University of New South Wales, Sydney), Owen Green (University College London), Georgina Born (University College London)\n\n\n\n\n\n\n7\n\n\nML and its Others: Can AI Be Decolonised?\n\n\nDarci Sprengel (King’s College London)\n\n\n\n\n\n\n8\n\n\nMachine Learning and Creative Practice (I)\n\n\nAaron Einbond (City University, London)\n\n\n\n\n\n\n9\n\n\nMachine Learning and Creative Practice (II)\n\n\nArtemi-Maria Gioti (Mozarteum University Salzburg, University College London)\n\n\n\n\n\n\n10\n\n\nAI and Artistic Critique\n\n\nChristopher Haworth (University of Birmingham)\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Sessions"
     ]
@@ -145,7 +145,40 @@
     "href": "sessions/6_copyright.html",
     "title": "6  AI, Music and Copyright",
     "section": "",
-    "text": "Abstract\nCriticism of generative AI for music is often framed in terms of copyright and the expropriation of creative labour. However, is this the productive critical perspective? (Musical) copyright, whilst heterogeneous and highly complex, tends to account for a narrow selection of musical qualities and critique on the basis of straightforward plagiarism oversimplifies the processes at work in generative systems.\n\n\nVideos\n\n\nCore Reading\nBorn, G., Bown, O., Drott, E., & Green, O. (Forthcoming 2026). From Copyright to Commons: Generative AI in Music, Copyright’s Informational Remainder, and Aggregate. Cambridge Forum on AI: Culture and Society.\n\n\nFurther Reading\nCraig, C. (2025). The AI-Copyright Trap. Chicago-Kent Law Review, 100(1), 107.\nDrott, E. (2021). Copyright, compensation, and commons in the music AI industry. Creative Industries Journal, 14(2), 190–207. https://doi.org/10.1080/17510694.2020.1839702\nMcKelvey, F., Simon, B., & Frizzera, L. (2026). Generative AI and the information commons: Controversy, copyright, and closure. Information, Communication & Society, 29(6), 1890–1911. https://doi.org/10.1080/1369118X.2025.2565328\nParker, J., & Goldstein, J. (2025). Labor not property: Why artists are fighting the wrong battle on gener. Verso Blog. https://www.versobooks.com/en-gb/blogs/news/labor-not-property-why-artists-are-fighting-the-wrong-battle-on-generative-ai\nSag, M., & Yu, P. K. (2024). The Globalization of Copyright Exceptions for AI Training (SSRN Scholarly Paper No. 4976393). Social Science Research Network. https://doi.org/10.2139/ssrn.4976393",
+    "text": "Abstract\nCriticism of generative AI for music is often framed in terms of copyright and the expropriation of creative labour. However, is this the productive critical perspective? (Musical) copyright, whilst heterogeneous and highly complex, tends to account for a narrow selection of musical qualities and critique on the basis of straightforward plagiarism oversimplifies the processes at work in generative systems.",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI, Music and Copyright</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/6_copyright.html#part-1",
+    "href": "sessions/6_copyright.html#part-1",
+    "title": "6  AI, Music and Copyright",
+    "section": "Part 1",
+    "text": "Part 1",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI, Music and Copyright</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/6_copyright.html#part-2",
+    "href": "sessions/6_copyright.html#part-2",
+    "title": "6  AI, Music and Copyright",
+    "section": "Part 2",
+    "text": "Part 2",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI, Music and Copyright</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/6_copyright.html#part-3",
+    "href": "sessions/6_copyright.html#part-3",
+    "title": "6  AI, Music and Copyright",
+    "section": "Part 3",
+    "text": "Part 3",
     "crumbs": [
       "Sessions",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>AI, Music and Copyright</span>"
@@ -156,7 +189,40 @@
     "href": "sessions/7_others.html",
     "title": "7  ML and its Others: Can AI Be Decolonised?",
     "section": "",
-    "text": "Abstract\nThis week explores the limitations of decolonising AI in the music industry. It questions whether AI, as a socio-technical assemblage always embedded in its larger cultural and historical contexts, is a coherent object that can be decolonised. Using the Arabic music industries based out of the UAE and Egypt, as well as Anghami, a Beirut-based music streaming service, as case studies, it demonstrates how the Arabic music industry operationalises AI in ways that both challenge and uphold relations of power within the region and beyond. Most broadly, it shows the limitations of decolonising AI even when starting from the epistemologies of listeners and musicians in the global South.\n\n\nVideos\n\n\nCore Readings\nSprengel, Darci. ‘Can AI Be Decolonised?: Notes from the Arabic Music Industry’ (forthcoming 2025).\nBorn, Georgina. ‘Diversifying MIR: Knowledge and Real-World Challenges, and New Interdisciplinary Futures’. Transactions of the International Society for Music Information Retrieval 3, no. 1 (2020): 193–204. https://doi.org/10.5334/tismir.58.\n\n\nFurther Readings\nArun, C. (2020). AI and the Global South: Designing for Other Worlds. In M. D.\nDubber, F. Pasquale, & S. Das (Eds.), The Oxford Handbook of Ethics of AI (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190067397.013.38\nClark, Emily Hansell. ‘A Postcolonial MIR?’ Resonance 3, no. 4 (1 December 2022): 412–32. https://doi.org/10.1525/res.2022.3.4.412.\nD’Ignazio, C. & L. F. Klein (2020). Introduction. In C. D’Ignazio & L. F. Klein, Data Feminism (pp. 1–23). MIT Press. https://data-feminism.mitpress.mit.edu/\nHuang, R. S., Holzapfel, A., Sturm, B. L. T., & Kaila, A.-K. (2023). Beyond Diverse Datasets: Responsible MIR, Interdisciplinarity, and the Fractured Worlds of Music. Transactions of the International Society for Music Information Retrieval, 6(1), 43–59. https://doi.org/10.5334/tismir.141\nMuldoon, J., & Wu, B. A. (2023). Artificial Intelligence in the Colonial Matrix of Power. Philosophy & Technology, 36(4), 80. https://doi.org/10.1007/s13347-023-00687-8",
+    "text": "Abstract\nThis week explores the limitations of decolonising AI in the music industry. It questions whether AI, as a socio-technical assemblage always embedded in its larger cultural and historical contexts, is a coherent object that can be decolonised. Using the Arabic music industries based out of the UAE and Egypt, as well as Anghami, a Beirut-based music streaming service, as case studies, it demonstrates how the Arabic music industry operationalises AI in ways that both challenge and uphold relations of power within the region and beyond. Most broadly, it shows the limitations of decolonising AI even when starting from the epistemologies of listeners and musicians in the global South.",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>ML and its Others: Can AI Be Decolonised?</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/7_others.html#part-1",
+    "href": "sessions/7_others.html#part-1",
+    "title": "7  ML and its Others: Can AI Be Decolonised?",
+    "section": "Part 1",
+    "text": "Part 1",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>ML and its Others: Can AI Be Decolonised?</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/7_others.html#part-2",
+    "href": "sessions/7_others.html#part-2",
+    "title": "7  ML and its Others: Can AI Be Decolonised?",
+    "section": "Part 2",
+    "text": "Part 2",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>ML and its Others: Can AI Be Decolonised?</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/7_others.html#part-3",
+    "href": "sessions/7_others.html#part-3",
+    "title": "7  ML and its Others: Can AI Be Decolonised?",
+    "section": "Part 3",
+    "text": "Part 3",
     "crumbs": [
       "Sessions",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>ML and its Others: Can AI Be Decolonised?</span>"
