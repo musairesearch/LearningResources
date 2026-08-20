@@ -12,10 +12,10 @@ Criticism of generative AI for music is often framed in terms of copyright and t
 
 # Videos
 ## Part 1
-{{<video https://youtu.be/nXsNkUJ5mD0>}}
+{{<video https://youtu.be/92e1LFW08MM>}}
 
 ## Part 2
-{{<video https://youtu.be/_1FRybH750Q>}}
+{{<video https://youtu.be/gGio0DDAR5Q>}}
 
 ## Part 3
 {{<video https://youtu.be/pSEQN5xup2Y>}}
