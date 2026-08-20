@@ -3,11 +3,15 @@ title: "AI and Artistic Critique"
 subtitle: "What is artistic critique in relation to AI?" 
 author: "Christopher Haworth (University of Birmingham)"
 order: 10
+resources:
+    - /resources/slides/MusAI-LR-S10.pdf
 ---
 
 # Abstract 
 
 What is artistic critique in relation to AI, and how does it relate to other configurations of art’s relationship to technoscience — for instance ideological, demonstrative, collaborative? What use is critique generally in relation to AI and technoscience, and what use is artistic critique specifically? How does the history of AI critique in music relate to canonical philosophical and humanistic critiques of AI?
+
+<br/><button><a href="/resources/slides/MusAI-LR-S10.pdf" target="_blank">Slides</a></button>
 
 # Videos
 

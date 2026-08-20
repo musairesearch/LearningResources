@@ -3,11 +3,15 @@ title: "Machine Learning and Creative Practice (I)"
 subtitle: "Subtitle"
 author: "Aaron Einbond (City University, London)"
 order: 8
+resources:
+    - /resources/slides/MusAI-LR-S8.pdf
 ---
 
 # Abstract 
 
 What kinds of technical and artistic innovation does ML enable? What is the relationship between them and how are they shaped by aesthetic concerns? Can artistic work with ML serve as a source of critique, informed by humanities scholarship? We examine contemporary and critical practice in musical composition with ML. 
+
+<br/><button><a href="/resources/slides/MusAI-LR-S8.pdf" target="_blank">Slides</a></button>
 
 # Videos
 

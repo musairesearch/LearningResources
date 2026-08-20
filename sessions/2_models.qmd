@@ -2,11 +2,15 @@
 title: "The Objects of ML"
 author: "Owen Green (University College London)"
 order: 2
+resources:
+    - /resources/slides/MusAI-LR-S2.pdf
 ---
 
 # Abstract
 
 How does ML conceptualize the objects it models, such as ‘music’ in music information retrieval? Through the question of musical genre – as a particular kind of musical object – we can see radical reductions in how music is often modelled. This has epistemological consequences for what these models can tell us in research, but also quite possibly ontological consequences if – as some argue – models of social and cultural phenomena, such as music or genre, do not merely describe or predict but are performatively changing the very thing they model.
+
+<br/><button><a href="/resources/slides/MusAI-LR-S2.pdf" target="_blank">Slides</a></button>
 
 # Videos
 

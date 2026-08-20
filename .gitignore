@@ -1,6 +1,6 @@
-_book/*
-.quarto/*
-build/*
+_book/
+.quarto/
+build/
 journal_files/*
 
 

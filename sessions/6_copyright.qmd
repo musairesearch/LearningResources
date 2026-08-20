@@ -2,10 +2,14 @@
 title: "AI, Music and Copyright"
 author: ["Eric Drott (University of Texas, Austin)", "Oliver Bown (University of New South Wales, Sydney)", "Owen Green (University College London)", "Georgina Born (University College London)"]
 order: 6
+resources:
+    - /resources/slides/MusAI-LR-S6.pdf
 ---
 # Abstract
 Criticism of generative AI for music is often framed in terms of copyright and the expropriation of creative labour. However, is this the productive critical perspective? (Musical) copyright, whilst heterogeneous and highly complex, tends to account for a narrow selection of musical qualities and critique on the basis of straightforward plagiarism oversimplifies the processes at work in generative systems. 
  
+<br/><button><a href="/resources/slides/MusAI-LR-S6.pdf" target="_blank">Slides</a></button>
+
 # Videos
 ## Part 1
 {{<video https://youtu.be/nXsNkUJ5mD0>}}
