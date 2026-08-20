@@ -15,6 +15,12 @@ What is artistic critique in relation to AI, and how does it relate to other con
 
 # Videos
 
+## Part 1
+{{<video https://youtu.be/HLwpIo-5pH8>}}
+
+## Part 2
+{{<video https://youtu.be/HJK2GF0XZGE>}}
+
 # Core Readings
 
 Haworth, C., 2021. ‘Introduction to Music and Cybernetics in Historical Perspective’ (Eds C. Haworth and E. Drott). Resonance: The Journal of Sound and Culture, 2(4), pp.461-474. 
