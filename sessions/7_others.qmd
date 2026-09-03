@@ -24,20 +24,21 @@ This week explores the limitations of decolonising AI in the music industry. It 
 
 # Core Readings
 
-Sprengel, Darci. ‘Can AI Be Decolonised?: Notes from the Arabic Music Industry’ (forthcoming 2025). 
+@SprengelForthcoming
 
-Born, Georgina. ‘Diversifying MIR: Knowledge and Real-World Challenges, and New Interdisciplinary Futures’. Transactions of the International Society for Music Information Retrieval 3, no. 1 (2020): 193–204. https://doi.org/10.5334/tismir.58.
 
 # Further Readings
 
-Arun, C. (2020). AI and the Global South: Designing for Other Worlds. In M. D. 
+@Arun2020
 
-Dubber, F. Pasquale, & S. Das (Eds.), The Oxford Handbook of Ethics of AI (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190067397.013.38
+@Bron2020
 
-Clark, Emily Hansell. ‘A Postcolonial MIR?’ Resonance 3, no. 4 (1 December 2022): 412–32. https://doi.org/10.1525/res.2022.3.4.412.
+@Clark2022
 
-D’Ignazio, C. & L. F. Klein (2020). Introduction. In C. D’Ignazio & L. F. Klein, Data Feminism (pp. 1–23). MIT Press. https://data-feminism.mitpress.mit.edu/
+@DIgnazio2020
 
-Huang, R. S., Holzapfel, A., Sturm, B. L. T., & Kaila, A.-K. (2023). Beyond Diverse Datasets: Responsible MIR, Interdisciplinarity, and the Fractured Worlds of Music. Transactions of the International Society for Music Information Retrieval, 6(1), 43–59. https://doi.org/10.5334/tismir.141
+@Huang2023
 
-Muldoon, J., & Wu, B. A. (2023). Artificial Intelligence in the Colonial Matrix of Power. Philosophy & Technology, 36(4), 80. https://doi.org/10.1007/s13347-023-00687-8
+@Muldoon2023
+
+@Rizk2020

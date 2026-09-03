@@ -17,19 +17,19 @@ Introductory overview: setting the agenda regarding getting ‘beyond ethics’ 
 
 # Core Readings
 
-Born, G. (2023). ‘What is a Music Recommender System, How do Culture and Society Get Into It, and How Can It Be Oriented to the Public Good?’. Keynote lecture for the MuRS: Music Recommender Systems Workshop at the 2023 ACM Recommender Systems (RecSys) Conference, Singapore.
+@Born2023
 
-Akrich, Madeleine. (1992) ‘The De-Scription of Technical Objects’. In Shaping Technology / Building Society: Studies in Sociotechnical Change, edited by Wiebe E. Bijker and John Law, 205–24. (MIT Press).
+@Akrich1992
 
 # Further Reading
-Barry, A., Born, G., & Weszkalnys, G. (2008). ‘Logics of Interdisciplinarity’. Economy and Society, 37(1), 20–49. https://doi.org/10.1080/03085140701760841
+@Kind2020
 
-Kind, C. (2020). ‘The Term ‘Ethical AI’ is Finally Starting to Mean Something’. VentureBeat. https://venturebeat.com/ai/the-term-ethical-ai-is-finally-starting-to-mean-something/
+@Birhane2021
 
-Birhane, A. (2021). ‘Algorithmic Injustice: A Relational Ethics Approach’. Patterns, 2(2), 100205. https://doi.org/10.1016/j.patter.2021.100205
+@HelmForthcoming
 
-Born, G., & Barry, A. (2010). ‘Art-Science: From Public Understanding to Public Experiment’. Journal of Cultural Economy, 3(1), 103–119. https://doi.org/10.1080/17530351003617610
+@Holzapfel2018
 
-Holzapfel, Andre, Bob L. Sturm, and Mark Coeckelbergh. (2018) ‘Ethical Dimensions of Music Information Retrieval Technology’. Transactions of the International Society for Music Information Retrieval 1(1) https://doi.org/10.5334/tismir.13.
+@Oudshoorn2003
 
-Oudshoorn, N., & Pinch, T. (2003). ‘Introduction: How Users and Non-Users Matter’, in Oudshoorn and Pinch (eds.), How Users Matter: The Co-Construction of Users and Technology. (MIT Press). https://doi.org/10.7551/mitpress/3592.003.0002
+@Barry2008
