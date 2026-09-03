@@ -23,19 +23,18 @@ How do we think the forms of value that ML might produce, and the costs that it 
 
 # Core Readings
 
-Drott, Eric. ‘Commons Capital, Commons Collapse, and the Political Economy of Commercial Music AI.’ Forthcoming.
+@DrottForthcominga
 
 # Further Readings
 
-Crawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale. Esp. chapter 1, ‘Earth’.
+@Crawford2021 \[Esp. chapter 1, ‘Earth’.\]
 
-Drott, E. (2021). Copyright, Compensation, and Commons in the Music AI Industry. Creative Industries Journal, 14(2), 190-207.
+@Drott2021
 
-Leyshon, A., and Watson, A. (2025) The Rise of the Platform Music Industries. Agenda. Esp. ch. 3.
+@Leyshon2025a \[Esp. ch. 3.\]
 
-Morreale, F., Martinez-Ramirez, M. A., Masu, R., Liao, W., & Mitsufuji, Y. (2025). Reductive, exclusionary, normalising: the limits of generative AI music. Transactions of the International Society for Music Information Retrieval, 8(1), 300-312. 
+@Morreale2025
 
-Rikap, C. (2026) The Rulers: Corporate Power in the Age of AI and the Cloud. Verso
+@Rikap2026
 
-Srnicek, N. (2026). Silicon Empires: The Fight for the Future of AI. Polity.
-
+@Srnicek2026a

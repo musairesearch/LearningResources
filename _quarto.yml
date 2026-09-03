@@ -32,12 +32,14 @@ book:
         - sessions/8_creativepractice1.qmd
         - sessions/9_creativepractice2.qmd
         - sessions/10_artcritique.qmd
-    - references.qmd
+    # - references.qmd
 
 
 
 # this would be a global bib, but I think we can have them per-page too
-bibliography: playground/references.bib
+bibliography: resources/bib/MusAiWorkshop2026Readings.bib
+csl: resources/bib/apa7.csl
+suppress-bibliography: true
 
 format:
   html:

@@ -9,14 +9,19 @@ resources:
 
 # Abstract
 
-How do we think the forms of value that ML might produce, and the costs that it entails? How do we grasp the economic conditions that have enabled the recent profusion of AI music startups, and that have influenced the products and services they have developed? How does the pressing need of AI music companies to generate economic value interact with competing notions of value, associated with diverse actors? Introduction to the political economy of AI music, and the implications it may have for the future of copyright and of music cultures.
+In this series of videos I explore the cultures of AI music technology startups in a period of profound disruption between 2020 and 2025. 
+
+My initial focus is on how these organisations manoeuvre between the simultaneous challenges of developing new experimental technologies and building an engaged set of users, while satisfying investors and workers, while the technology, cultural and music business landscapes are also changing around them. My initial study looks at 4 companies each building generative music engines for dynamic music experiences, and I compare their different innovation strategies: how quickly they go for product-market-fit, how agile they are, and how they accumulate assets and capability that may build value even without working products. In addition, above all, I consider how they articulate their product visions as value propositions and how that lands in dialogue with music communities and investors. The research reveals a set of ways that innovation seeks to create the conditions for open-ended exploratory search which is technology-first: it seeks to develop new technology capabilities, assets and configurations, and then to experimentally discover new markets to which these capabilities can be applied.
+
+Beyond the initial scope of the first study, I consider how the leading AI music company Suno, while having a more technologically advanced product than the companies considered above, faces similar challenges in articulating and developing its product offering and remaining agile, especially in light of recent damaging lawsuits. I also survey recent simultaneous developments in related technology areas that suggest mutual adaptation. In particular, I consider how the stem separation company Audioshake is claiming to enable conversion of legacy music into Dolby Atmos spatial formats, which may in turn influence the uptake of dynamic music experiences.
+
+In a second study I look at the user interface design challenges of music AI companies, again developing a technology-led innovation perspective. Generative technologies are seemingly powerful creative tools but their opacity forces a set of interface design possibilities that are generally antithetical to creative practices. Through a set of music AI companies I trace interface design development as it attends to different creative user needs, focusing on some (but not all) creative users’ need for creative engagement and differentiation. This includes various design innovations that allow generative processes to be integrated with other interfaces that allow user control. I propose that creative AI companies could better employ value-centred design frameworks which centre the value of the arts, in doing so better serving their product designs and also improving the value they bring to creative arts communities.
+
+In a third study, I look at the emerging field of training data attribution in creative AI applications. Following the widespread calls for AI companies to respect the copyright protections of training data with some legal success, there is a massive mobilisation to create AI training data attribution strategies, which are being tentatively explored by record companies and copyright agencies. I present a typology of attribution strategies and I propose that each can be analysed in terms of the their claims to underlying ‘determinants of value’, those ways that we naturally understand a cultural product to be worthy of receiving remuneration. I also consider how transparent each strategy is and how easily it can be gamed.
 
 <br/><button><a href="/resources/slides/MusAI-LR-S4.pdf" target="_blank">Slides</a></button>
 
 # Videos
-## Intro
-
-
 ## Part 1
 {{<video https://youtu.be/qJFh4CVKKdE>}}
 {{<video https://youtu.be/JJOTcaNAQK0>}}
@@ -29,20 +34,19 @@ How do we think the forms of value that ML might produce, and the costs that it 
 
 # Core Readings
 
-Bown, Oliver. ‘Blind Search and Flexible Product Visions: The Sociotechnical Shaping of Generative Music Engines’. AI & Society, March 2024. https://doi.org/10.1007/s00146-024-01862-x.
+@Bown2024a
 
 # Further Readings
 
-Cellard, L., Parker, C., & Haines, F. (2025). Beyond AI as an environmental pharmakon: Principles for reopening the problem-space of machine learning’s carbon footprint. Environment and Planning E, 25148486251332087. https://doi.org/10.1177/25148486251332087
+@Bown2024
 
-Hesmondhalgh, D. (2012). ‘Towards a Political Aesthetics of Music’, in The Cultural Study of Music: A Critical Introduction, 364–374.
+@CamposValverde2026
 
-Bown, O. (2025 - in review). ‘The Song Remains the Same and the Beat Goes On: Prospecting the Rise of DATaPoP (Deciding Artistic Things at Point of Playback)’. Forthcoming.
+@Cellard2025
 
-Sag, M., & Yu, P. K. (2025). ‘The Globalization of Copyright Exceptions for AI Training. Emory Law Journal, 74.
+@Hesmondhalgh2012
 
-Law, H. (2025). ‘The Slop Must Flow: AI and the Case for Creative Abundance’. https://www.learningfromexamples.com/p/the-slop-must-flow
+@Hodgson2020
 
-Crawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (Yale, 2021), esp. chapter 1, ‘Earth’.
+@Law2025
 
-Crawford, K. and Joler, V., “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources,” AI Now Institute and Share Lab, (2018) https://anatomyof.ai
