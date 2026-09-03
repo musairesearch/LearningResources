@@ -17,18 +17,18 @@ What kinds of technical and artistic innovation does ML enable? What is the rela
 
 # Core Readings 
 
-Gioti, A.-M. (forthcoming 2026). Listening like an Algorithm: Ethnography of a Machine Listening System. Cambridge Forum on AI: Culture and Society.
+@GiotiForthcoming
 
 
 # Further Readings
 
-Born, G. (2005). On Musical Mediation: Ontology, Technology and Creativity. Twentieth-Century Music, 2(1), 7–36.
+@Born2005
 
-Gioti, A.-M., Einbond, A., & Born, G. (2022). Composing the Assemblage: Probing Aesthetic and Technical Dimensions of Artistic Creation with Machine Learning. Computer Music Journal, 46(4), 62–80. 
+@Gioti2022
 
-Goldsmith, K. (2011). Uncreative Writing: Managing Language in the Digital Age, (Introduction pp. 1-13). Columbia University Press.
+@Goldsmith2011
 
-Lewis, G. E. (1999). Interacting with latter-day musical automata. Contemporary Music Review, 18(3), 99–112. 
+@Lewis1999
 
-Malafouris, L. (2008). At the Potter’s Wheel: An Argument for Material Agency. In C. Knappett & L. Malafouris (Eds.), Material Agency (pp. 19–36). Springer U
+@Malafouris2008
 
