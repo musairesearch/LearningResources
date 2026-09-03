@@ -40,9 +40,9 @@ In a third study, I look at the emerging field of training data attribution in c
 
 @Bown2024
 
-@CamposValverde2026
+<!-- @CamposValverde2026
 
-@Cellard2025
+@Cellard2025 -->
 
 @Hesmondhalgh2012
 
