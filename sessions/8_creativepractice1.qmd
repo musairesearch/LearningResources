@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning and Creative Practice (I)"
-subtitle: "Subtitle"
+subtitle: "Magic of Machine Learning: Interdisciplinary composition and collaboration in Prestidigitation"
 author: "Aaron Einbond (City University, London)"
 order: 8
 resources:
@@ -9,7 +9,11 @@ resources:
 
 # Abstract 
 
-What kinds of technical and artistic innovation does ML enable? What is the relationship between them and how are they shaped by aesthetic concerns? Can artistic work with ML serve as a source of critique, informed by humanities scholarship? We examine contemporary and critical practice in musical composition with ML. 
+How can machine learning (ML) be a resource for music composition, and what are the costs hidden beneath the surface of its apparent magic? Artistic creation with ML relies on a complex assemblage of collaborative labor, aesthetic backgrounds, creative choices, and cultural contexts that collectively enable the seemingly costless technologies. This talk follows the work of one composer using autoethnographic methods to trace the creative process of two works: Prestidigitation for solo percussion and 3-D electronics and Prestidigitation II for percussion solo, five instruments, and 3-D electronics.^[Videos with binaural recordings of both works can be viewed at the following links: [https://youtu.be/zi9COmpU9ms](https://youtu.be/zi9COmpU9ms) [https://youtu.be/eL6TooEwtHY](https://youtu.be/eL6TooEwtHY)]  While autoethnography is an increasingly prevalent method to document practice-based research in music composition, here it especially illuminates the webs of artistic and technological collaboration that produce the works, and it is augmented by looking “inside the algorithm” through close analyses of software patches and repositories. Building on our previous work as part of the research program Music and Artificial Intelligence: Building Critical Interdisciplinary Studies (MusAI), we view ML not as a narrowly defined “algorithm”, but embedded within a technical “assemblage” (Born 2005: 8) encompassing performer, instruments, microphones, computer, loudspeakers, room, and audience. We argue that each decision is contingent on the aesthetic background not only of the composer but also of each collaborator in a distributed creative process (Gioti, Einbond, and Born 2023: 63). Further, rather than discrete actions with premediated results, the process of creation and collaboration follows a flow of “material engagement” emergent from the engagement between humans and non-humans (Malafouris 2008).
+
+Through these methods, some of the key findings include: first, the magic of ML conceals layers of human labor that crystalize each collaborator’s aesthetic background in the process. Second, algorithmic complexity and musical richness are not necessarily correlated, as simple ML algorithms can satisfy sophisticated musical goals, and “small data” produced through collaborative curation can be more stimulating for creativity than commercial “big data”. Third, while material engagement with ML shares many features with other music technologies, it presents differences in the temporality of music-making due to the unique demands of training data learned, analyzed, and performed by the ML agent. In this way, ML challenges the ontology of the musical work, accelerating a tendency already identified in earlier forms of technological creation, by multiplying the sites of the creative process into a palimpsest of performances. Finally, far from autonomous algorithms, ML tools are contingent on human, social, and institutional forces that decisively influence their design and output. Compared to other music-science collaboration, composing with ML stimulates generative modes of collaboration that we term “permeable interdisciplinarity”, blurring and redefining the roles of composer, performer, producer, and researcher. By challenging the fiction of ML as a frictionless creative tool, we can reposition ML as a site of rich artistic, technical, and social entanglement. The magic of ML is not in bypassing human effort, but in challenging boundaries of artistic knowledge and catalyzing new human collaborative constellations.
+
+
 
 <br/><button><a href="/resources/slides/MusAI-LR-S8.pdf" target="_blank">Slides</a></button>
 
@@ -33,8 +37,6 @@ What kinds of technical and artistic innovation does ML enable? What is the rela
 @Gioti2022
 
 @Goldsmith2011
-
-@Lewis1999
 
 @Malafouris2008
 
