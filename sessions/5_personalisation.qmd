@@ -21,7 +21,7 @@ With ideas around political economy, value and the user in hand, we venture beyo
 {{<video https://youtu.be/aniQPXDYPuk>}}
 
 ## Part 3
-
+{{<video https://youtu.be/_MlY2-JfEDQ>}}
 # Core Readings
 
 Ferraro, Andres, Gustavo Ferreira, Fernando Diaz, and Georgina Born. "Measuring Commonality in Recommendation of Cultural Content to Strengthen Cultural Citizenship." ACM Transactions on Recommender Systems 2, no. 1 (2024): 1-32. [Full version - shorter version below]

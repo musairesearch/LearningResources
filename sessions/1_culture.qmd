@@ -15,6 +15,18 @@ Introductory overview: setting the agenda regarding getting ‘beyond ethics’ 
 
 # Videos
 
+## Part 1
+{{<video https://youtu.be/b5CetmqclkA>}}
+
+## Part 2
+{{<video https://youtu.be/UFTa0PiPFOE>}}
+
+## Part 3
+{{<video https://youtu.be/WHmDIhZTiMI>}}
+
+## Part 4
+{{<video https://youtu.be/61O96yBaq_g>}}
+
 # Core Readings
 
 @Born2023
