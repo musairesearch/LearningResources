@@ -24,7 +24,51 @@
     "href": "sessions/1_culture.html",
     "title": "1  Culture, Interdisciplinarity, and ML",
     "section": "",
-    "text": "Abstract\nIntroductory overview: setting the agenda regarding getting ‘beyond ethics’ in critical thinking about ML, in favour of the necessity of developing wider interdisciplinary and structural understandings of AI/ML. Establishing music as an exemplary domain for thinking through these issues, and introducing the MusAI research program’s attempts to develop critical accounts of AI and music, and this course as a key experimental step in our work. A first lens on these issues is through recent debates on ‘AI and culture’, drawing out, via a focus on recommender systems, how culture gets into ML in several distinct ways. From this to the question of how ML applications configure human users, employing ideas from Science and Technology Studies (STS) – and asking: could it be otherwise?\n\n\nSlides\nSlides\n\n\nVideos\n\n\nCore Readings\nBorn, G. (2023). What is a music recommender system, how do culture and society get into it, and how can it be oriented to the public good? Keynote Lecture for the MuRS: Music Recommender Systems Workshop at the 2023 ACM Recommender Systems (RecSys 2023).\nAkrich, M. (1992). The De-Scription of Technical Objects. In W. E. Bijker, J. Law, T. Pinch, & R. Slayton (Eds.), Shaping Technology / Building Society: Studies in Sociotechnical Change (pp. 205–224). MIT Press.\n\n\nFurther Reading\nKind, C. (2020). The term “ethical AI” is finally starting to mean something. In VentureBeat. https://venturebeat.com/ai/the-term-ethical-ai-is-finally-starting-to-mean-something/\nBirhane, A. (2021). Algorithmic injustice: A relational ethics approach. Patterns, 2(2), 100205. https://doi.org/10.1016/j.patter.2021.100205\nHelm, P., & Gerlek, S. (Forthcoming). Empirical AI Ethics: Grounded, relational, transformative. Cambridge Forum on AI: Culture and Society.\nHolzapfel, A., Sturm, B. L., & Coeckelbergh, M. (2018). Ethical Dimensions of Music Information Retrieval Technology. Transactions of the International Society for Music Information Retrieval, 1(1). https://doi.org/10.5334/tismir.13\nOudshoorn, N., & Pinch, T. (2003). Introduction: How Users and Non-Users Matter. https://doi.org/10.7551/mitpress/3592.003.0002\nBarry, A., Born, G., & Weszkalnys, G. (2008). Logics of interdisciplinarity. Economy and Society, 37(1), 20–49. https://doi.org/10.1080/03085140701760841",
+    "text": "Abstract\nIntroductory overview: setting the agenda regarding getting ‘beyond ethics’ in critical thinking about ML, in favour of the necessity of developing wider interdisciplinary and structural understandings of AI/ML. Establishing music as an exemplary domain for thinking through these issues, and introducing the MusAI research program’s attempts to develop critical accounts of AI and music, and this course as a key experimental step in our work. A first lens on these issues is through recent debates on ‘AI and culture’, drawing out, via a focus on recommender systems, how culture gets into ML in several distinct ways. From this to the question of how ML applications configure human users, employing ideas from Science and Technology Studies (STS) – and asking: could it be otherwise?",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Culture, Interdisciplinarity, and ML</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/1_culture.html#part-1",
+    "href": "sessions/1_culture.html#part-1",
+    "title": "1  Culture, Interdisciplinarity, and ML",
+    "section": "Part 1",
+    "text": "Part 1",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Culture, Interdisciplinarity, and ML</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/1_culture.html#part-2",
+    "href": "sessions/1_culture.html#part-2",
+    "title": "1  Culture, Interdisciplinarity, and ML",
+    "section": "Part 2",
+    "text": "Part 2",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Culture, Interdisciplinarity, and ML</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/1_culture.html#part-3",
+    "href": "sessions/1_culture.html#part-3",
+    "title": "1  Culture, Interdisciplinarity, and ML",
+    "section": "Part 3",
+    "text": "Part 3",
+    "crumbs": [
+      "Sessions",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Culture, Interdisciplinarity, and ML</span>"
+    ]
+  },
+  {
+    "objectID": "sessions/1_culture.html#part-4",
+    "href": "sessions/1_culture.html#part-4",
+    "title": "1  Culture, Interdisciplinarity, and ML",
+    "section": "Part 4",
+    "text": "Part 4",
     "crumbs": [
       "Sessions",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Culture, Interdisciplinarity, and ML</span>"
@@ -156,7 +200,7 @@
     "href": "sessions/5_personalisation.html#part-3",
     "title": "5  ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems",
     "section": "Part 3",
-    "text": "Part 3",
+    "text": "Part 3\n # Core Readings\nFerraro, Andres, Gustavo Ferreira, Fernando Diaz, and Georgina Born. “Measuring Commonality in Recommendation of Cultural Content to Strengthen Cultural Citizenship.” ACM Transactions on Recommender Systems 2, no. 1 (2024): 1-32. [Full version - shorter version below]\nBorn, G., & Diaz, F. (2024). A Public Service Media Perspective on the Algorithmic Amplification of Cultural Content. Knight First Amendment Institute at Columbia University. https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content",
     "crumbs": [
       "Sessions",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>ML, Public Value, and Institutional and Design Alternatives: the Case of Music Recommender Systems</span>"
